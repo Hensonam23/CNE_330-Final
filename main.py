@@ -1,6 +1,5 @@
 # A basic calculator that supports operations such as addition, subtraction, multiplication and division
 # A menu will allow the user to perform operations
-# Allows continuous operations
 # Starting value is "0" so the user can choose starting value
 # All numbers are rounded to the nearest whole number, no decimals
 # A calculator.txt file will be created to store all values until
